@@ -1,0 +1,15 @@
+{
+  "name": "Age Counter",
+  "version": "1.0",
+  "description": "by onehanduz",
+  "manifest_version": 2,
+  "icons": {
+    "128": "128.png",
+    "16": "16x16.png",
+    "48": "32x32.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": ["activeTab"]
+}
